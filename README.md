@@ -1,16 +1,16 @@
-### Hi there 👋
+------------------------------ 
+<img src="header.png">
 
-<!--
-**zzvictoor/zzvictoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Victor, tenho 18 anos (ao menos na data que escrevi este readme).
+------------------------------
 
-Here are some ideas to get you started:
+Antigamente meu nickname em tudo era "victor35436", mas agora estou com um nickname novo, "zz.victor"
+obviamente não tem como eu por esse nome em tudo pois muitas pessoas já pegaram esse nickname, então eu 
+coloquei em tudo que consegui.
+Portanto, minhas redes sociais são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord: zzvictor
+Instagram, Spotify: zz.victor
+Twitter, Pinterest, Steam: zzvictoor
+
+------------------------------
