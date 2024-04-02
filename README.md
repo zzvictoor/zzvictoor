@@ -75,3 +75,5 @@ Porém, tenho muito interesse em aprender:
 [![LINUX](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/zzvictoor)
 
 ------------------------------
+
+[![TOCADO RECENTEMENTE](https://spotify-recently-played-readme.vercel.app/api?user=victor35436&count=3)](https://open.spotify.com/user/victor35436)
