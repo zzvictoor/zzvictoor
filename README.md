@@ -22,7 +22,8 @@ Twitter, Pinterest, Steam: zzvictoor
 
 ## Linguagens
 
-Atualmente possuo um conhecimento variado, desde linguagens de marcação até linguagens de alto nível, como por exemplo:
+Atualmente possuo um conhecimento variado, porém, busco sempre aprender mais coisas.
+Atualmente possuo um "bom" conhecimento nas seguintes linguagens:
 
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/zzvictoor)
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/zzvictoor)
@@ -47,4 +48,13 @@ Tenho ódio de:
 
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/zzvictoor)
 
+## Ambientes de trabalho
+
+Atualmente possuo conhecimento nos seguintes sistemas:
+
+[![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/zzvictoor)
+
+Porém, tenho muito interesse em aprender:
+
+[![LINUX](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/zzvictoor)
 ------------------------------
