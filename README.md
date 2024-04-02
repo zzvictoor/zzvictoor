@@ -1,5 +1,6 @@
 ------------------------------ 
 
+<img src="header.png">
 
 Me chamo Victor, tenho 18 anos (ao menos na data que escrevi este readme).
 ------------------------------
