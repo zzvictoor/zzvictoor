@@ -24,5 +24,5 @@ Twitter, Pinterest, Steam: zzvictoor
 
 Atualmente possuo conhecimento com linguagens de marcação, como por exemplo:
 
-[[HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/zzvictoor)
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/zzvictoor)
 ------------------------------
