@@ -15,7 +15,8 @@ Só utilizo o zzvictoor pois há muitos lugares em que não aceitam "." no perfi
 ## Redes sociais / Contato
 
 Portanto caso queira entrar em contato comigo, minhas redes sociais são:
-[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)] - zzvictor, zz.victor ou zzvictoor, possuo 3 contas.
+
+[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/zzvictoor) - zzvictor, zz.victor ou zzvictoor, possuo 3 contas.
 
 [![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/victor35436) - Victor35436
 
@@ -65,7 +66,7 @@ Tenho ódio de:
 Atualmente possuo conhecimento nos seguintes sistemas:
 
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/zzvictoor)
-https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+[![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/zzvictoor)
 
 Porém, tenho muito interesse em aprender:
 
