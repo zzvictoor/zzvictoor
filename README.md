@@ -35,7 +35,8 @@ Atualmente possuo um conhecimento variado, desde linguagens de marcação até l
 Não sei muito, mas já consigo ajudar com algo haha:
 
 [![JAVA](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/zzvictoor)
- 
+[![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/zzvictoor)
+
 Estou aprendendo:
 
 [![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/zzvictoor)
