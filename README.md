@@ -2,7 +2,7 @@
 
 <img src="welcome.png">
 
-Me chamo Victor, tenho 18 anos (ao menos na data que escrevi este readme).
+Olá, me chamo Victor, tenho 18 anos e sou um programador
 ------------------------------
 
 Antigamente meu nickname em tudo era "victor35436", mas agora estou com um nickname novo, "zz.victor"
