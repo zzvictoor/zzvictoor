@@ -12,7 +12,6 @@ Informações:
 - 🌎 Nacionalidade: Brasileiro;
 - 💬 Idiomas: Português, Inglês;
 - 🌐 Vivendo em: Portugal;
-- 🧑 Personalidade: Quieto.
 
 Antigamente meu nickname em tudo era "victor35436", mas agora estou com uma nova identidade virtual, "zz.victor" ou "zzvictoor" pois quero ser conhecido com um nome mais simples.
 Obviamente não há como eu definir esse nome em todas as redes sociais devido ao fato de muitas pessoas já terem escolhido esse nome de utilizador, atualmente, quase todas as minhas redes sociais tem esses novos nomes.
