@@ -13,8 +13,7 @@ Informações:
 - 💬 Idiomas: Português, Inglês;
 - 🌐 Vivendo em: Portugal;
 
-Antigamente meu nickname em tudo era "victor35436", mas agora estou com uma nova identidade virtual, "zz.victor" ou "zzvictoor" pois quero ser conhecido com um nome mais simples.
-Obviamente não há como eu definir esse nome em todas as redes sociais devido ao fato de muitas pessoas já terem escolhido esse nome de utilizador, atualmente, quase todas as minhas redes sociais tem esses novos nomes.
+Maybe you know me as: Victor35436
 
 ## Redes sociais / Contato
 
@@ -34,7 +33,7 @@ No discord, possuo 3 contas, que são: zzvictor, zz.victor ou zzvictoor.
 ## Aprendizado
 
 Atualmente possuo um conhecimento variado, porém, busco sempre aprender mais coisas.
-Atualmente possuo um "bom" conhecimento nos seguintes quesitos:
+"Linguagens" que domino:
 
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/zzvictoor)
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/zzvictoor)
@@ -45,12 +44,12 @@ Atualmente possuo um "bom" conhecimento nos seguintes quesitos:
 [![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/zzvictoor)
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/zzvictoor)
 
-Não sei muito, mas já consigo ajudar com algo haha:
+Não sei muito, mas já consigo ajudar:
 
 [![JAVA](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/zzvictoor)
 [![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/zzvictoor)
 
-Estou aprendendo:
+Tenho interesse em aprender:
 
 [![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/zzvictoor)
 [![ELIXIR](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/zzvictoor)
@@ -58,19 +57,16 @@ Estou aprendendo:
 [![SNYK](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)](https://github.com/zzvictoor)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/zzvictoor)
 
-Tenho ódio de:
+Linguagens proibidas:
 
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/zzvictoor)
 
 ## Ambientes de trabalho
 
-Atualmente possuo conhecimento nos seguintes sistemas:
+Atualmente possuo um conhecimento variado nos seguintes sistemas:
 
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/zzvictoor)
 [![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/zzvictoor)
-
-Porém, tenho muito interesse em aprender:
-
 [![LINUX](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/zzvictoor)
 
 ------------------------------
