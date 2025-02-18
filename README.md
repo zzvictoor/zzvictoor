@@ -17,18 +17,13 @@ Maybe you know me as: Victor35436
 
 ## Redes sociais / Contato
 
-Portanto caso queira entrar em contato comigo, basta clicar no frame da rede social preferida, todos estão linkados, exceto o discord.
+Portanto caso queira entrar em contato comigo, basta clicar no frame da rede social preferida.
 
-[![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/victor35436)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zz.victor)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-salbego)
-[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zzvictoor)
-[![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/zzvictoor)
-[![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.pt/zzVictoor)
 
-No discord, possuo 3 contas, que são: zzvictor, zz.victor ou zzvictoor.
-
-[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/zzvictoor)
+Follow me on Spotify!
+[![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/victor35436)
 
 ## Aprendizado
 
