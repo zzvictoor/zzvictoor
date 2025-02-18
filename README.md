@@ -23,6 +23,7 @@ Portanto caso queira entrar em contato comigo, basta clicar no frame da rede soc
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-salbego)
 
 Follow me on Spotify!
+
 [![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/victor35436)
 
 ## Aprendizado
