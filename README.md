@@ -21,9 +21,6 @@ Portanto caso queira entrar em contato comigo, basta clicar no frame da rede soc
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zz.victor)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-salbego)
-
-Follow me on Spotify!
-
 [![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/victor35436)
 
 ## Aprendizado
@@ -45,9 +42,8 @@ Não sei muito, mas já consigo ajudar:
 [![JAVA](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/zzvictoor)
 [![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/zzvictoor)
 
-Tenho interesse em aprender:
+Interesse em aprender:
 
-[![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/zzvictoor)
 [![ELIXIR](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/zzvictoor)
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/zzvictoor)
 [![SNYK](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)](https://github.com/zzvictoor)
