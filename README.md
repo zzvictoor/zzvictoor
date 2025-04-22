@@ -23,10 +23,7 @@ Portanto caso queira entrar em contato comigo, basta clicar no frame da rede soc
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-salbego)
 [![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/victor35436)
 
-## Aprendizado
-
-Atualmente possuo um conhecimento variado, porém, busco sempre aprender mais coisas.
-"Linguagens" que domino:
+## Linguagens
 
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/zzvictoor)
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/zzvictoor)
@@ -36,9 +33,6 @@ Atualmente possuo um conhecimento variado, porém, busco sempre aprender mais co
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/zzvictoor)
 [![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/zzvictoor)
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/zzvictoor)
-
-Não sei muito, mas já consigo ajudar:
-
 [![JAVA](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/zzvictoor)
 [![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/zzvictoor)
 
@@ -49,9 +43,6 @@ Interesse em aprender:
 [![SNYK](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)](https://github.com/zzvictoor)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/zzvictoor)
 
-Linguagens proibidas:
-
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/zzvictoor)
 
 ## Ambientes de trabalho
 
