@@ -54,4 +54,4 @@ Atualmente possuo um conhecimento variado nos seguintes sistemas:
 
 ------------------------------
 
-[![TOCADO RECENTEMENTE](https://spotify-recently-played-readme.vercel.app/api?user=victor35436&count=3)](https://open.spotify.com/user/victor35436)
+[![TOCADO RECENTEMENTE](https://spotify-recently-played-readme.vercel.app/api?user=victor35436&count=6)](https://open.spotify.com/user/victor35436)
