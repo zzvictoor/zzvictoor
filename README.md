@@ -6,8 +6,6 @@
 
 ## Sobre
 
-Olá, me chamo Victor, tenho 19 anos e sou um programador buscando sempre aprender algo novo.
-
 Informações:
 - 🌎 Nacionalidade: Brasileiro;
 - 💬 Idiomas: Português, Inglês;
