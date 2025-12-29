@@ -4,21 +4,21 @@
 
 ------------------------------
 
-## Sobre
+## About
 
-Informações:
-- 🌎 Nacionalidade: Brasileiro;
-- 💬 Idiomas: Português, Inglês;
-- 🌐 País: Portugal;
+Information:
+- 🌎 Nationality: Brasileiro;
+- 💬 Languages: Português, Inglês;
+- 🌐 Country: Portugal;
 
 Maybe you know me as: Victor35436
 
-## Redes sociais / Contato
+## Contact / Social Media
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zz.victor)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-salbego)
 
-## Interesses
+## Interests
 
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/zzvictoor)
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/zzvictoor)
@@ -36,7 +36,7 @@ Maybe you know me as: Victor35436
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/zzvictoor)
 
 
-## Ambientes de trabalho
+## Workflow systems
 
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/zzvictoor)
 [![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/zzvictoor)
@@ -44,4 +44,4 @@ Maybe you know me as: Victor35436
 
 ------------------------------
 
-[![TOCADO RECENTEMENTE](https://spotify-recently-played-readme.vercel.app/api?user=victor35436&count=6)](https://open.spotify.com/user/victor35436)
+[![LAST PLAYED SONG](https://music-profile.rayriffy.com/theme/dark.svg?uid=001836.782b99c08ba34070b59c0a163166c2cb.1507)](https://music-profile.rayriffy.com)
