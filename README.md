@@ -7,8 +7,8 @@
 ## About
 
 Information:
-- 🌎 Nationality: Brasileiro;
-- 💬 Languages: Português, Inglês;
+- 🌎 Nationality: Brazilian;
+- 💬 Languages: Portuguese and English;
 - 🌐 Country: Portugal;
 
 Maybe you know me as: Victor35436
