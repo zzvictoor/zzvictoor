@@ -1,17 +1,16 @@
------------------------------- 
+---
 
-<img src="welcome.png">
+<img src="welcome.png" alt="Welcome banner">
 
-------------------------------
+---
 
-## About
+## About me
 
-Information:
-- 🌎 Nationality: Brazilian;
-- 💬 Languages: Portuguese and English;
-- 🌐 Country: Portugal;
+- 🌎 Nationality: Brazilian
+- 💬 Languages: Portuguese and English
+- 🌐 Based in: Portugal
 
-Maybe you know me as: Victor35436
+You may also know me as **Victor35436**.
 
 ## Contact / Social Media
 
@@ -28,20 +27,19 @@ Maybe you know me as: Victor35436
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/zzvictoor)
 [![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/zzvictoor)
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/zzvictoor)
-[![JAVA](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/zzvictoor)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/zzvictoor)
 [![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/zzvictoor)
 [![ELIXIR](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/zzvictoor)
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/zzvictoor)
 [![SNYK](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)](https://github.com/zzvictoor)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/zzvictoor)
 
-
-## Workflow systems
+## Platforms
 
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/zzvictoor)
 [![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/zzvictoor)
 [![LINUX](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/zzvictoor)
 
-------------------------------
+---
 
 [![LAST PLAYED SONG](https://music-profile.rayriffy.com/theme/dark.svg?uid=001836.782b99c08ba34070b59c0a163166c2cb.1507)](https://music-profile.rayriffy.com)
