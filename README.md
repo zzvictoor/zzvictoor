@@ -41,5 +41,4 @@ You may also know me as **Victor35436**.
 [![LINUX](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/zzvictoor)
 
 ---
-
-[![LAST PLAYED SONG](https://music-profile.rayriffy.com/theme/dark.svg?uid=001836.782b99c08ba34070b59c0a163166c2cb.1507)](https://music-profile.rayriffy.com)
+[![LAST PLAYED SONG](https://music-profile.rayriffy.com/theme/dark.svg?uid=001144.e574fc5121724b3ba4f474eb9c30d033.0816)](https://music-profile.rayriffy.com)
