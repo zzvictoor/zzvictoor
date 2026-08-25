@@ -44,7 +44,13 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
+### APIs & Integrations
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-005A9C?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCjxyZWN0IHg9IjMiIHk9IjYiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgcng9IjIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIi8%2BCjxwYXRoIGQ9Im00LjUgNy41IDcuNSA1LjggNy41LTUuOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTggMTVoLTJtMTIgMGgtMiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4%3D)
+![WSDL](https://img.shields.io/badge/WSDL-40B6E0?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BCjxwYXRoIGZpbGw9IiM5QUE3QjAiIGQ9Ik03IDEgMyA1aDRWMVptMSAwdjVIM3YyaDEwVjFIOFoiLz4KPHBhdGggZmlsbD0iIzQwQjZFMCIgZD0iTTEgOWgxNXY3SDF6Ii8%2BCjxwYXRoIGZpbGw9IiMyMzFGMjAiIGQ9Ik00IDEwaDEuNjVDNy4wNCAxMCA4IDExLjA5IDggMTIuNVM3LjA0IDE1IDUuNjUgMTVINHYtNVptMSAxdjNoLjY1Yy45MyAwIDEuMzUtLjUxIDEuMzUtMS40OXYtLjAxQzcgMTEuNTIgNi41OCAxMSA1LjY1IDExSDVabTQgMGgxdjNoMi41djFIOXYtNFoiLz4KPC9zdmc%2B)
 ### Other
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,7 +83,17 @@ It was a very complex project and also my first one built with Next.js. I'm very
 ## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=terminal&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Analytics & Web
+
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCjxyZWN0IHg9IjMiIHk9IjEzIiB3aWR0aD0iMy41IiBoZWlnaHQ9IjciIHJ4PSIxIiBmaWxsPSIjNDI4NUY0Ii8%2BCjxyZWN0IHg9IjgiIHk9IjkiIHdpZHRoPSIzLjUiIGhlaWdodD0iMTEiIHJ4PSIxIiBmaWxsPSIjMzRBODUzIi8%2BCjxyZWN0IHg9IjEzIiB5PSI1IiB3aWR0aD0iMy41IiBoZWlnaHQ9IjE1IiByeD0iMSIgZmlsbD0iI0ZCQkMwNCIvPgo8Y2lyY2xlIGN4PSIxNC41IiBjeT0iOS41IiByPSI1LjEiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0VBNDMzNSIgc3Ryb2tlLXdpZHRoPSIyLjQiLz4KPHBhdGggZD0iTTE4LjMgMTMuMyAyMiAxNyIgc3Ryb2tlPSIjNDI4NUY0IiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BCjwvc3ZnPg%3D%3D)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-2F7DD1?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCjxwYXRoIGQ9Ik0xMiAyIDIyLjIgMjAuMkExLjIgMS4yIDAgMCAxIDIxLjIgMjJIMi44YTEuMiAxLjIgMCAwIDEtMS0xLjhMMTIgMloiIGZpbGw9IiM3REQzRkMiLz4KPHBhdGggZD0ibTUuMiAxNC4yIDExLjYtMy44TDIxLjIgMjJIMi44YTEuMiAxLjIgMCAwIDEtMS0xLjhsMy40LTZaIiBmaWxsPSIjMkY3REQxIi8%2BCjxwYXRoIGQ9Im01LjIgMTQuMiAxNiA3LjhIMi44YTEuMiAxLjIgMCAwIDEtMS0xLjhsMy40LTZaIiBmaWxsPSIjMTU1NEIzIi8%2BCjwvc3ZnPg%3D%3D)
 
 ## Platforms
 
