@@ -60,7 +60,7 @@
 
 ---
 
-## Selected Work
+## Featured Work
 
 ### 🌐 Grupo Solverde
 
@@ -79,6 +79,12 @@ It was a very complex project and also my first one built with Next.js. I'm very
 [![Visit Website](https://img.shields.io/badge/Visit_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gruposolverde.pt)
 
 ---
+
+### AI & Workflow
+
+![OpenAI Codex](https://custom-icon-badges.demolab.com/badge/OpenAI_Codex-212121?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-2D2A26?style=for-the-badge&logo=claudecode&logoColor=D97757)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ## Tools
 
