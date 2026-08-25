@@ -79,12 +79,12 @@ It was a very complex project and also my first one built with Next.js. I'm very
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 
-## Plataforms
+## Platforms
 
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-# Last played song
+## Last played song
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001144.e574fc5121724b3ba4f474eb9c30d033.0816)](https://music-profile.rayriffy.com)
