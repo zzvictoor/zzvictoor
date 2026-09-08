@@ -23,7 +23,7 @@
 - 🇵🇹 Based in Portugal
 - 💬 Portuguese & English
 - 💻 Full-stack developer
-- 👤 Also known as **Victor35436**
+- 👤 Also known as **Victor35436**, **zz.victor**, **zzvictoor**
 
 ---
 
