@@ -1,6 +1,6 @@
 <img src="welcome.png" alt="Welcome banner">
 
-<h1 align="center">Hey, I'm Victor 👋</h1>
+<h1 align="center">Hey, I'm Victor Salbego 👋</h1>
 
 <p align="center">
   Full-stack developer based in Portugal 🇵🇹
