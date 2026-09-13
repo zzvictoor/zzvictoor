@@ -51,6 +51,7 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP-005A9C?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCjxyZWN0IHg9IjMiIHk9IjYiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgcng9IjIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIi8%2BCjxwYXRoIGQ9Im00LjUgNy41IDcuNSA1LjggNy41LTUuOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTggMTVoLTJtMTIgMGgtMiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4%3D)
 ![WSDL](https://img.shields.io/badge/WSDL-40B6E0?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BCjxwYXRoIGZpbGw9IiM5QUE3QjAiIGQ9Ik03IDEgMyA1aDRWMVptMSAwdjVIM3YyaDEwVjFIOFoiLz4KPHBhdGggZmlsbD0iIzQwQjZFMCIgZD0iTTEgOWgxNXY3SDF6Ii8%2BCjxwYXRoIGZpbGw9IiMyMzFGMjAiIGQ9Ik00IDEwaDEuNjVDNy4wNCAxMCA4IDExLjA5IDggMTIuNVM3LjA0IDE1IDUuNjUgMTVINHYtNVptMSAxdjNoLjY1Yy45MyAwIDEuMzUtLjUxIDEuMzUtMS40OXYtLjAxQzcgMTEuNTIgNi41OCAxMSA1LjY1IDExSDVabTQgMGgxdjNoMi41djFIOXYtNFoiLz4KPC9zdmc%2B)
+
 ### Other
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,15 +73,15 @@
 
 Public website for Grupo Solverde, a Portuguese hospitality and casino group.
 
-This is the biggest project I've worked on so far. It includes a shopping cart system, online payment integrations, receipts, CMS editing, and much more, go check it out!
+This is the biggest project I've worked on so far. It includes a shopping cart system, online payment integrations, receipts, CMS editing, and much more. Go check it out!
 
-It was a very complex project and also my first one built with Next.js. I'm very proud to have been part of it.
+It was a very complex project and also my first project built with Next.js. I'm very proud to have been part of it.
 
 [![Visit Website](https://img.shields.io/badge/Visit_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gruposolverde.pt)
 
 ---
 
-### AI & Workflow
+## AI & Workflow
 
 ![OpenAI Codex](https://custom-icon-badges.demolab.com/badge/OpenAI_Codex-212121?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-2D2A26?style=for-the-badge&logo=claudecode&logoColor=D97757)
