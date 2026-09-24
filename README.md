@@ -77,6 +77,8 @@ This is the biggest project I've worked on so far. It includes a shopping cart s
 
 It was a very complex project and also my first project built with Next.js. I'm very proud to have been part of it.
 
+**Key areas:** e-commerce flows, payment integrations, CMS tooling, receipts, and frontend development.
+
 [![Visit Website](https://img.shields.io/badge/Visit_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gruposolverde.pt)
 
 ---
